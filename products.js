@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Summer Elegance Dress",
             price: 8000,
             category: "women",
-            image: "index-images/fashion1.jpg",
+            image: "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkXoUGxJ8eVZV4quGYXoYPJApwDjg0APaGETN0FbdUUqquF3sI0n1PM1hp9jY6UxnJmxlpr9zydGagxTVuKi9aw9U154O5Jn-h8DYoJy5zoMqOOZ2te0Iy",
             isNew: true
         },
         {
@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Designer Leather Jacket",
             price: 14999,
             category: "men",
-            image: "index-images/fashion2.jpg",
+            image: "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTNb3wkFsgY0wyKFwNLdQ1Km6xAFVkhNAwBIrxaFqLUDXruw7S0vXiczt21sqrKVLdXhzW2KxxmNkLGDld4wK7uIwdonf7NJGZNgx5a-uG7BS0wp0allXra2A",
             isNew: true
         },
         {
@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Casual Weekend Set",
             price: 6499,
             category: "women",
-            image: "index-images/fashion3.jpg",
+            image: "https://i.pinimg.com/1200x/8f/09/c8/8f09c8d9a2390c15cc7b096520a0c2d8.jpg",
             isNew: false
         },
         {
@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Evening Silk Gown",
             price: 19999,
             category: "women",
-            image: "index-images/fashion4.jpg",
+            image: "https://i.pinimg.com/736x/0c/cb/18/0ccb184446a80eefcbcd216e20c195f3.jpg",
             isNew: false
         },
         {
@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Classic Denim Jeans",
             price: 5999,
             category: "men",
-            image: "index-images/fashion1.jpg",
+            image: "https://i.pinimg.com/736x/85/c0/28/85c028f0e6c4b2793900b0a40ef06dc8.jpg",
             isNew: true
         },
         {
@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Winter Wool Coat",
             price: 17999,
             category: "women",
-            image: "index-images/fashion2.jpg",
+            image: "https://i.pinimg.com/736x/5f/e4/bc/5fe4bcb195b6bc7e7b8e02a5cb1bf75f.jpg",
             isNew: false
         },
         {
@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Sports Activewear",
             price: 4499,
             category: "accessories",
-            image: "index-images/fashion3.jpg",
+            image: "https://i.pinimg.com/736x/70/47/50/704750188220fd2e7e7b03f9f30495f6.jpg",
             isNew: true
         },
         {
@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Formal Suit",
             price: 29999,
             category: "men",
-            image: "index-images/fashion4.jpg",
+            image: "https://i.pinimg.com/736x/1c/a6/d2/1ca6d25ddbe7a7040983f61af2d6c80b.jpg",
             isNew: false
         },
         {
@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Designer Handbag",
             price: 12999,
             category: "accessories",
-            image: "index-images/fashion1.jpg",
+            image: "https://i.pinimg.com/736x/60/20/68/602068c076c9138ba97f02c3cc2f4367.jpg",
             isNew: true
         },
         {
@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Running Shoes",
             price: 8999,
             category: "shoes",
-            image: "index-images/fashion2.jpg",
+            image: "https://i.pinimg.com/736x/73/dc/cc/73dccc6322d16ead620fb3a5511582c9.jpg",
             isNew: false
         },
         {
@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Evening Clutch",
             price: 4999,
             category: "accessories",
-            image: "index-images/fashion3.jpg",
+            image: "https://i.pinimg.com/1200x/3e/d4/39/3ed43978e43ff68a770194f294c65449.jpg",
             isNew: true
         },
         {
@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Casual Sneakers",
             price: 6999,
             category: "shoes",
-            image: "index-images/fashion4.jpg",
+            image: "https://i.pinimg.com/1200x/b3/da/01/b3da01b0f03385ff8fd431abe0561b46.jpg",
             isNew: false
         }
     ];
